@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name" translatable="false">Click SuperApp</string>
+    <string name="phone_code" translatable="false">+998 (</string>
+
+    <!--- ******************** BASIC ********************-->
+
+
+    <!--- ******************** AUTH ********************-->
+    <string name="select_language">Tilni Tanglang</string>
+    <string name="keep_going">Davom etish</string>
+    <string name="authorization">Avtorizatsiya</string>
+    <string name="information_authorization_button">«Davom etish» tugmasini bosib, siz <font color='#3498db'>Ommaviy ofertaga</font> rozilik\nbildirasiz.</string>
+    <string name="enter_phone_number">Telefon raqamni kiriting</string>
+    <string name="enter_password">Parolni kiriting</string>
+    <string name="register_text">Agar siz hali ro\'yxatdan o\'tmagan bo\'lsangiz, <font color='#3498db'><u>ro\'yxatdan o\'ting</u></font>.</string>
+    <string name="register">Ro\'rxatdan o\'tish</string>
+    <string name="enter_surname">Familiyangizni kiriting</string>
+    <string name="enter_lastname">Ismingizni kiriting</string>
+    <string name="enter_birth_day">Tug‘ilgan sanangizni kiriting</string>
+    <string name="register_btn">Ro‘yxatdan o‘tish</string>
+    <string name="woman">Ayol</string>
+    <string name="man">Erkak</string>
+    <string name="enter_your_gender">Jinsingizni kiriting</string>
+    <string name="enter_password_again">Parolni qayta kiriting</string>
+    <string name="code_verification">Kod tasdiqlash</string>
+    <string name="enter_code">Kodni kiriting</string>
+    <string name="sent">Yuborildi</string>
+    <string name="resend">Qayta yuborish</string>
+    <string name="create_pin_code">Click-Pin yarating</string>
+    <string name="enter_pin_code">Click-Pin kiriting</string>
+    <string name="click_pin_forgotten">Click-Pin yoddan\nchiqardingizmi?</string>
+
+
+    <!--- ******************** CARD ********************-->
+    <string name="search">Qidiruv</string>
+    <string name="general_balance">Umumiy balans</string>
+    <string name="my_wallet">Mening hamyonim</string>
+
+</resources>

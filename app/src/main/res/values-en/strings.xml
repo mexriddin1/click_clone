@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <!--- ******************** BASIC ********************-->
+
+
+    <!--- ******************** AUTH ********************-->
+    <string name="select_language">Select Language</string>
+    <string name="authorization">Authorization</string>
+    <string name="keep_going">Continue</string>
+    <string name="information_authorization_button">By clicking the «Continue» button, you agree to the <font color='#3498db'>public offer</font>.</string>
+    <string name="enter_phone_number">Enter phone Number</string>
+    <string name="enter_password">Enter password</string>
+    <string name="register_text">If you haven\'t registered yet, <font color='#3498db'><u>register</u></font></string>
+    <string name="register">Registration</string>
+    <string name="enter_surname">Enter surname</string>
+    <string name="enter_lastname">Enter lastname</string>
+    <string name="enter_birth_day">Enter your date of birth</string>
+    <string name="register_btn">Register</string>
+    <string name="woman">Woman</string>
+    <string name="man">Man</string>
+    <string name="enter_your_gender">Enter your gender</string>
+    <string name="enter_password_again">Enter password again</string>
+    <string name="code_verification">Code Verification</string>
+    <string name="enter_code">Enter Code</string>
+    <string name="sent">Sent</string>
+    <string name="resend">Resend</string>
+    <string name="create_pin_code">Create a Click-Pin</string>
+    <string name="enter_pin_code">Enter Click-Pin</string>
+    <string name="click_pin_forgotten">Click-Pin have you\nforgotten it?</string>
+
+    <!--- ******************** CARD ********************-->
+    <string name="search">Search</string>
+    <string name="general_balance">General balance</string>
+    <string name="my_wallet">My wallet</string>
+
+</resources>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--- ******************** BASIC ********************-->
+
+
+    <!--- ******************** AUTH ********************-->
+    <string name="select_language">Выберите язык</string>
+    <string name="authorization">Авторизация</string>
+    <string name="keep_going">Продолжать идти</string>
+    <string name="information_authorization_button">Нажимая на кнопку «Продолжить», вы соглашаетесь с <font color='#3498db'>публичной офертой</font>.</string>
+    <string name="enter_phone_number">Введите номер телефона</string>
+    <string name="enter_password">Введите пароль</string>
+    <string name="register_text">Если вы еще не зарегистрированы, <font color='#3498db'><u>зарегистрируйтесь</u></font></string>
+    <string name="register">Зарегистрироваться</string>
+    <string name="enter_surname">Введите фамилию</string>
+    <string name="enter_lastname">Введите имя</string>
+    <string name="enter_birth_day">Введите дату вашего рождения</string>
+    <string name="register_btn">Зарегистрироваться</string>
+    <string name="woman">Женщина</string>
+    <string name="man">Мужчина</string>
+    <string name="enter_your_gender">Введите ваш пол</string>
+    <string name="enter_password_again">Введите пароль еще раз</string>
+    <string name="code_verification">Проверка кода</string>
+    <string name="enter_code">Введите код</string>
+    <string name="sent">Отправлено</string>
+    <string name="resend">Отправить повторно</string>
+    <string name="create_pin_code">Создайте клик-пин</string>
+    <string name="enter_pin_code">Введите Клик-Пин</string>
+    <string name="click_pin_forgotten">Забыли\nClick-Pin?</string>
+
+
+    <!--- ******************** CARD ********************-->
+    <string name="general_balance">Общий баланс</string>
+    <string name="search">Поиск</string>
+    <string name="my_wallet">Мой кошелек</string>
+
+</resources>
